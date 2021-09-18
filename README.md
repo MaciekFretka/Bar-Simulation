@@ -19,7 +19,6 @@ Barman can pour beer only if there are a clean mugs. If isn't he must clean all 
 Clients also have needs of going to toilet sometimes. Every beer is increase progress of that need.
 
 ## Visualisation
-<img src="https://i.imgur.com/2HUzCfK.png" width="918" height="365" />
 <a name="pre"></a>
 
 # Prerequisites
