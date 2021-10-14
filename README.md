@@ -45,7 +45,7 @@ barman.
 
 • Jeśli toaleta jest wolna, klient chcący z niej skorzystać zajmuje ją na określony czas.
 
-• Gdy brak wolnych toalet, klienic chcący z niej skorzystać ustawiają się do niej w kolejkę.
+• Gdy brak wolnych toalet, klienci chcący z niej skorzystać ustawiają się do niej w kolejkę.
 
 
 ## Wizualizacja
