@@ -25,17 +25,27 @@ się oni w jedną kolejkę do baru.
 
 • Gdy klient uzyskał dostęp do baru, zamawia piwo. Z nim odchodzi z baru i zwalnia
 miejsce w kolejce do barmana
+
 • Klient z piwem wypija je przez pewien czas. Po wypiciu zostawia na barze brudny
 kufel.
+
 • Barmani mają ograniczoną ilość kufli do nalewania piwa. W przypadku gdy brak jest
 czystych kufli, są nie zdolni do nalewania piwa. W takim wypadku biorą pewną ilość
 kufli i udają się by je umyć
+
 • Barmani myją kufle w zmywakach, których ilość również jest ograniczona (mniej niż
 barmanów). W przypadku gdy wszystkie zmywaki są zajęte – barmani chcący umyć
 kufle ustawiają się w kolejkę.
+
 • Zasób czystych kufli jest dostępny dla każdego barmana. Oznacza to że wszystkie
 czyste kufle są przechowywane na jednym stosie do którego dostęp ma każdy
 barman.
+
+• Klientom wraz z piciem kolejnych piw zwiększa się potrzeba skorzystania z toalety. Gdy wzrośnie do 100% klient idzie skorzystać z toalety.
+
+• Jeśli toaleta jest wolna, klient chcący z niej skorzystać zajmuje ją na określony czas.
+
+• Gdy brak wolnych toalet, klienic chcący z niej skorzystać ustawiają się do niej w kolejkę.
 
 
 ## Wizualizacja
