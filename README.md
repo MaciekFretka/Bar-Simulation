@@ -49,7 +49,8 @@ barman.
 
 
 ## Wizualizacja
-<a name="pre"></a>
+
+[Demo symulacji](https://youtu.be/-LpcvREs5n0)
 
 # Stos technologiczny
 - LINUX
