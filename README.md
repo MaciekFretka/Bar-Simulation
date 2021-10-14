@@ -17,9 +17,12 @@ nalewane przez barmanów.
 ## Założenia
 
 • Klient chcący zaspokoić pragnienie musi podejść do barmana.
+
 • Barmanów jest kilka, jednak znacznie mniej niż klientów
+
 • Gdy klientów chcących zamówić piwo jest więcej niż wolnych barmanów ustawiają
 się oni w jedną kolejkę do baru.
+
 • Gdy klient uzyskał dostęp do baru, zamawia piwo. Z nim odchodzi z baru i zwalnia
 miejsce w kolejce do barmana
 • Klient z piwem wypija je przez pewien czas. Po wypiciu zostawia na barze brudny
